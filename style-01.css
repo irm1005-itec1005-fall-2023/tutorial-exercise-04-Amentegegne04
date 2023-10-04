@@ -20,6 +20,8 @@
     space-evenly
 
   */
+  display: flex;
+  justify-content: flex-end;
 }
 
 /*
